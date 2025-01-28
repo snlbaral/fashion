@@ -28,7 +28,7 @@ extracted_features/
 # *.jpeg
 *.pth
 *.pth.tar
-*.txt
+# *.txt
 *.zip
 *.swo
 *.swp
